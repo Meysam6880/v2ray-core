@@ -1,6 +1,6 @@
 package core_test
 
-import (
+import (v2ray_test.go
 	"testing"
 
 	"google.golang.org/protobuf/proto"
